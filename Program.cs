@@ -10,8 +10,12 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
+<<<<<<< HEAD
             Console.WriteLine("Welcome SDM");
             Console.WriteLine("welcome github");
+=======
+            Console.WriteLine("here i am here i am how do you do...")
+>>>>>>> 9ed7a3cc1ee89a00a0ba1f1dd4a47536680d1448
         }
     }
 }
