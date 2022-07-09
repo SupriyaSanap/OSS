@@ -34,7 +34,7 @@ namespace CRMWebApp.Models
         public string Department { get; set; }
         public string Location { get; set; }
 
-
+// here i am here i am how do you do............
     }
 >>>>>>> 9ed7a3cc1ee89a00a0ba1f1dd4a47536680d1448
 }
