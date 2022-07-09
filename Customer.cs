@@ -12,6 +12,6 @@ namespace CRMWebApp.Models
         public String Name { get; set; }
         public String ContactPerson { get; set; }
         public String ContactNumber { get; set; }
-
+        public string EmailID { get; set; }  //updated by sonali
     }
 }
